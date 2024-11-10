@@ -13,10 +13,3 @@ This project is a simple web login page built with HTML and CSS. It provides a u
 - HTML5
 - CSS3
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/web-login-page.git
